@@ -12,7 +12,10 @@
 
 ---
 <p align = "center">
-  <I><B>Connect with me! Let's have fun! Open to stupid ideas.</B></I>
+  <I><B>Open to stupid ideas!</B></I>
+</p>
+<p align = "center">
+  <I><B>Connect with me!! Let's have fun!!!</B></I>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourtechmafia&show_icons=true&locale=en&layout=compact" alt="yourtechmafia" /></p>
 <p><align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourtechmafia&show_icons=true&locale=en&layout=compact" alt="yourtechmafia" /></p>
