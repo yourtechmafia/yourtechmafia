@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://github.com/yourtechmafia"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/techmafia/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;</p>
 ---
+| Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Cloud%20Native-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Artificial%20Intelligence-%23803D8D?style=for-the-badge"> |
 
 | Deep Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Cloud%Architecture-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Artificial%20Intelligence-%23803D8D?style=for-the-badge"> |
 | :---: | :---: |
