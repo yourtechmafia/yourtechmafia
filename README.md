@@ -13,7 +13,6 @@ The Tech Stack
    <ul>
      <li>Hey there! 👋 You can call me TechMafia</li>
      <li> A Technology Specialist working remotely across borders.</li>
-     <li> I love automating the boring stuffs with technology.</li>
      <li> 5+ years experience as a Computer Technician & IT Specialist.</li>
      <li>4+ years experience as a WordPress Designer.</li>
      <li> 3+ years experience as an Embedded/Automation Systems Developer.</li>
