@@ -11,27 +11,27 @@ The Tech Stack
 <tr>
  <td width="70%">
    <ul>
-     <li>Hey there! 👋 You can call me TechMafia</li>
-     <li> A Technology Specialist working remotely across borders.</li>
-     <li> 5+ years experience as a Computer Technician & IT Specialist.</li>
-     <li>4+ years experience as a WordPress Designer.</li>
-     <li> 3+ years experience as an Embedded/Automation Systems Developer.</li>
-     <li> 2+ years experience as a Cloud Architect (AWS).</li>
-     <li> A lot of the past couple of years have been about hardware. I'm now into:   
+     <li>Hey there! 👋 You can call me The TechMafia</li>
+     <li>A Technology Specialist working remotely across borders.</li>
+     <li>5+ years experience as a Computer Technician & IT Specialist.</li>
+     <li>4+ years experience designing and building responsive WordPress websites.</li>
+     <li>3+ years experience designing and engineering Embedded & Automation Systems.</li>
+     <li>2+ years experience on the cloud (AWS Cloud Architect).</li>
+     <li>A lot of the past years has been about hardware. I'm now into:   
         <ul> 
-          <li> Tech Support </li> 
-          <li> Cloud Native </li> 
-          <li> DevOps </li> 
+          <li> Technical Support </li> 
+          <li> Cloud Native Engineering </li> 
+          <li> DevOps Engineering</li> 
         </ul>          
      </li>  
      <li> In my free time, I'm:
         <ul>  
-          <li> Voluntarily assisting people with technical issues.</li>
-          <li> Reading entrepreneurship books.</li>
-          <li> Learning more cloud services.</li>
-          <li> Gaming </li>
-          <li> Learning a new language.</li>
-          <li> OpenSourcing </li>
+          <li> Voluntarily assisting people with technical issues, or</li>
+          <li> Reading entrepreneurship books, or</li>
+          <li> Learning more cloud services, or</li>
+          <li> Gaming, or</li>
+          <li> Learning a new language, or</li>
+          <li> OpenSourcing.</li>
         </ul>
      </li>  
    </ul> 
