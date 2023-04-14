@@ -12,14 +12,13 @@ The Tech Stack
  <td width="70%">
    <ul>
      <li>Hey there! 👋 You can call me The TechMafia</li>
-     <li>A Technology Specialist working remotely across borders.</li>
-     <li>5+ years experience as a Computer Technician & IT Specialist.</li>
+     <li>5+ years experience as a Computer Technician & Technical Writer.</li>
      <li>4+ years experience designing and building responsive WordPress websites.</li>
      <li>3+ years experience designing and engineering Embedded & Automation Systems.</li>
      <li>2+ years experience on the cloud (AWS Cloud Architect).</li>
      <li>A lot of the past years has been about hardware. I'm now into:   
         <ul> 
-          <li> Technical Support </li> 
+          <li> Technical Writing </li> 
           <li> Cloud Native Engineering </li> 
           <li> DevOps Engineering</li> 
         </ul>          
@@ -55,5 +54,3 @@ The Tech Stack
 
 <p align = "center"><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourtechmafia&show_icons=true&locale=en&layout=compact" alt="yourtechmafia" />
 </p>
-
-<p align="center"> <a href="https://twitter.com/techmafia_" target="blank"><img src="https://img.shields.io/twitter/follow/techmafia_?logo=twitter&style=for-the-badge" alt="techmafia" /></a> </p>
