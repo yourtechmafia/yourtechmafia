@@ -13,7 +13,7 @@ The DevOps & Writing Stack
    <ul>
      <li>Hey there! 👋 I'm The TechMafia</li>
      <li>Enthusiastic Tech Writer & DevOps Engineer with a flair for simplifying complex tech concepts.</li>
-     <li>Deeply involved in Cloud Native Engineering and DevOps methodologies.</li>
+     <li>Deeply involved in Cloud Native Engineering and DevOps methodologies. I'm not just about the bits and bytes but also the stories they tell.</li>
      <li>Passionate about crafting engaging technical content that resonates with diverse audiences.</li>
      <li>6+ years of diving deep into Computer Science, with a newfound love for Cloud and Automation.</li>
      <li>When not geeking out:
