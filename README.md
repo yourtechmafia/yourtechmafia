@@ -20,7 +20,7 @@ The DevOps & Writing Stack
         <ul>  
           <li> Helping tech newbies, or</li>
           <li> Absorbing the latest in tech and entrepreneurship, or</li>
-          <li> Exploring new cloud innovations, or</li>
+          <li> Exploring new Cloud and DevOps innovations, or</li>
           <li> Gaming for brain refresh, or</li>
           <li> Readings books.</li>
         </ul>
@@ -28,8 +28,11 @@ The DevOps & Writing Stack
    </ul> 
 </td>
 <td>
-    <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat">
-    <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
+    <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/-HCL-3DA639.svg?logo=terraform&style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C.svg?logo=prometheus&style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/-Grafana-F46800.svg?logo=grafana&style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/%20-AWS-%23E08307?style=for-the-badge&logo=amazonaws&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/%20-Linux-%23F55301?style=for-the-badge&logo=linux&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/-Docker-0082C9.svg?logo=docker&style=flat&logoColor=white">
