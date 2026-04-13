@@ -12,7 +12,7 @@ The DevOps & Writing Stack
  <td width="70%">
    <ul>
      <li>Hey there! 👋 I'm The TechMafia</li>
-     <li>Enthusiastic Tech Writer & DevOps Engineer with a flair for simplifying complex tech concepts.</li>
+     <li>Technical Author & DevOps Engineer with a flair for simplifying complex tech concepts.</li>
      <li>Deeply involved in Cloud Native Engineering and DevOps methodologies. I'm not just about the bits and bytes but also the stories they tell.</li>
      <li>6+ years of diving deep into Computer Science, with a newfound love for Cloud, DevOps Practices and Automation.</li>
      <li>When not geeking out:
